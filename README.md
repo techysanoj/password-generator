@@ -41,7 +41,7 @@ To get started with the project, follow these steps:
 
 ## Screenshots
 
-![Password Generator Screenshot](homescreen.png)
+![Password Generator Screenshot](homesceen.png)
 
 ## Technologies Used
 
